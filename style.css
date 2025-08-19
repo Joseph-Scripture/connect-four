@@ -29,7 +29,10 @@ body {
   justify-content: center;
   transition: background 0.3s;
 }
-
+#status{
+  color: red;
+  font-size: 5rem;
+}
 .cell.player1 {
   background-color: red;
 }
