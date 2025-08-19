@@ -1,1 +1,1 @@
-# connett-four
+# connect-four
